@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.backup
+*.broken-backup
+*.step1-backup
+*.step2-backup
+logs/*.jsonl
+reports/*
+!reports/.gitkeep
+screenshots/*
+!screenshots/.gitkeep
